@@ -1,0 +1,22 @@
+{
+  "name": "aoc-01",
+  "version": "1.0.0",
+  "description": "Advent of Code 01/12/2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/letchepare/adventofcode.git"
+  },
+  "author": "letchepare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/letchepare/adventofcode/issues"
+  },
+  "homepage": "https://gitlab.com/letchepare/adventofcode#readme",
+  "devDependencies": {
+    "prettier": "3.4.1"
+  }
+}
